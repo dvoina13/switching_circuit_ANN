@@ -8,7 +8,7 @@ This repository is the official implementation of "A biologically inspired archi
 # Requirements:
 
 Two anaconda environments are provided:
-environment1.yml and environment2.yml. The first environment was used to train and evaluate the basic network and switching network with 2, 3, and 4 hidden layers, while the second environment was used to train and evaluate VGG-16.
+environment1.yml and environment2.yml. The first environment was usedfasfasfasfasfasfsafaf to train and evaluate the basic network and switching network with 2, 3, and 4 hidden layers, while the second environment was used to train and evaluate VGG-16.
 
 `conda env create -f environment.yml`
 
